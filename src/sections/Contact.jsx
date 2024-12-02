@@ -21,8 +21,8 @@ const Contact = () => {
     setLoading(true);
 
     emailjs.send(
-        'service_xw022mj',
-        'template_diei0j4',
+        'service_d0tt7bh',
+        'template_2shaopx',
         {
           from_name: form.name,
           to_name: 'Jyoti',
